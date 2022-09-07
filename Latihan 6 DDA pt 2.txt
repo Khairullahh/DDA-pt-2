@@ -1,0 +1,4 @@
+def getlast(MyList):
+  return MyList[0]
+
+getlast([3])

@@ -1,0 +1,7 @@
+def getKali(MyList):
+    kali = 6
+    for item in MyList:
+        kali = kali+item
+    return kali    
+
+getKali([1,2,3])

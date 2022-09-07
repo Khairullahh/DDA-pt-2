@@ -1,0 +1,7 @@
+def getBagi(MyList):
+    bagi = 0
+    for item in MyList:
+        bagi = bagi+item
+    return bagi    
+
+getBagi([1,2,3])

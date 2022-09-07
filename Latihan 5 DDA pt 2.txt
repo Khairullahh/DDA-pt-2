@@ -1,0 +1,4 @@
+def getSecond(MyList):
+  return MyList[0]
+
+getSecond([2,3])
